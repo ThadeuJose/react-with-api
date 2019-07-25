@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 1rem;
+}
+
+.App{
+  box-sizing: border-box;
+  width: 80%;
+  margin:  0 auto;
+  padding: 10px;
+}
+
+.form{
+  display: flex;
+  padding-bottom: 50px;
+
+}
+
+.input_field{
+  width: 90%;
+  margin-right: 10px;
+  font-size: 16px;
+  border: 0;
+  padding-top: 20px;
+  border-bottom: 1px solid #EC985A;
+}
+
+.submit_button{
+  background-color: #EC985A;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+}
